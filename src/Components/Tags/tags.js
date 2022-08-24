@@ -1,0 +1,1 @@
+export const tags = ["All", "Kino", "Marvel", "Fun", "New", "Fantasty"]
